@@ -1,0 +1,4 @@
+# Craft-an-AutoGPT-Code-Generation-AI-Instrument-Leveraging-Rust-and-GPT-4
+started on [2023-12-09 Sat]
+here
+https://subscription.packtpub.com/video/programming/9781835085417/p2/video2_4/cargo-new--your-first-rust-project
